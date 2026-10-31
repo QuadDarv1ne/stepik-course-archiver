@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.next/
+bun.lockb
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project artifacts
+download/
+dev.log
+server.log
+*.tmp
+
+# Prisma
+prisma/migrations/
+
+# Skills (не часть основного проекта)
+skills/
+
+# Examples (не часть основного проекта)
+examples/
+
+# Tests
+tests/
+
+# Z.ai scripts
+.zscripts/
+.zscripts/dev.pid
