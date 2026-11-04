@@ -209,4 +209,5 @@ stepik_course_207061_COURSE_TITLE.zip
 
 ## Лицензия
 
-Custom License
+![Английская версия](https://github.com/QuadDarv1ne/stepik-course-archiver/blob/85892faa7917ad5d8efd385da426d9d7ff691550/LICENSE)
+![Русская версия](https://github.com/QuadDarv1ne/stepik-course-archiver/blob/444d793a5d162163e809cd1f4ef0925de301196a/LICENSE_RU)
