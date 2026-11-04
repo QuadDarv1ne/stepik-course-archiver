@@ -207,4 +207,4 @@ stepik_course_207061_COURSE_TITLE.zip
 
 ## Лицензия
 
-MIT
+Custom License
