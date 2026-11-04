@@ -1,5 +1,7 @@
 # Stepik Course Archiver
 
+![Главная страница сайта](https://github.com/QuadDarv1ne/stepik-course-archiver/blob/5a9a11432ceafd85ba6cf460c4b64e258dc317db/img/Stepik%20Course%20Archiver.png)
+
 Веб-приложение для полной выгрузки курсов Stepik в ZIP/TAR.GZ архивы. Включает теорию, видео, задания, тесты, правильные ответы, комментарии, отзывы и метаданные автора.
 
 ## Возможности
